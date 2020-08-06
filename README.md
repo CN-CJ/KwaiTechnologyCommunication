@@ -7,11 +7,13 @@
 
 目前直播已结束,回看方式:
 
-线上1: 上快手搜索"快手文化"点击直播回放，即可收看；
+线上1: 上快手搜索"快手文化"点击"直播回放"，即可收看；
 
-线上2: 也可在[快手PC回看](https://live.kuaishou.com/playback/3xtvbgks27kpxpk): https://live.kuaishou.com/playback/3xtvbgks27kpxpk
+线上2: 也可在PC端回看
 
-另外8月1日下午两点还有前端专场直播,感兴趣的小伙伴可通过'活动行'公众号或App参与报名;也可在快手App搜索'快手文化'观看直播,直播结束后PPT也会更新在此仓库中,请大家留意~
+[移动端专场](https://live.kuaishou.com/playback/3xtvbgks27kpxpk): https://live.kuaishou.com/playback/3xtvbgks27kpxpk
+
+[前端专场](https://live.kuaishou.com/playback/3xrwvaw5uv7ex69) : https://live.kuaishou.com/playback/3xrwvaw5uv7ex69
 
 
 *PS:非官方渠道账号,仅为方便大家建立仓库,侵删...*
