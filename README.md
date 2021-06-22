@@ -16,5 +16,7 @@
 
 [快手大数据管治技术交流会](https://live.kuaishou.com/playback/3xwzbx5h2inae6q) : https://live.kuaishou.com/playback/3xwzbx5h2inae6q
 
+[WWDC.<T>技术沙龙——北京专场](https://live.kuaishou.com/playback/3x33twmm9kebj8w) : https://live.kuaishou.com/playback/3x33twmm9kebj8w
+
 
 *PS:非官方渠道账号,仅为方便大家建立仓库,侵删...*
